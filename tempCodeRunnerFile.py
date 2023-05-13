@@ -1,0 +1,1 @@
+print(f"Memory used: {memory_used} MB")
